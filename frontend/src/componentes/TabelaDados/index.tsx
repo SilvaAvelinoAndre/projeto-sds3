@@ -1,4 +1,4 @@
-const DataTable = () => { /* DataTable é a tabela de apresentação que contem da pagina*/
+const TabelaDados = () => { /* DataTable é a tabela de apresentação que contem da pagina*/
     return (
         <div className="table-responsive">
             <table className="table table-striped table-sm">
@@ -94,4 +94,4 @@ const DataTable = () => { /* DataTable é a tabela de apresentação que contem 
     );
 }
 
-export default DataTable;
+export default TabelaDados;

@@ -13,3 +13,4 @@ const NavBar = () => { /* função anonima passada para a variavel NavBar */
 }
 
 export default NavBar;
+/* NavBar mostra o logo Devsuperior no inicio da pagina */
