@@ -1,6 +1,6 @@
 import Chart from 'react-apexcharts';
 
-const GraficoBarras = () => { /*Configura os dados no grafico*/
+const BarChart = () => { /*Configura os dados no grafico*/
     const options = {
         plotOptions: {
             bar: {
@@ -30,4 +30,4 @@ const GraficoBarras = () => { /*Configura os dados no grafico*/
     );
 }
 
-export default GraficoBarras;
+export default BarChart;

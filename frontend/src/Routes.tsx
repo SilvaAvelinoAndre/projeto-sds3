@@ -16,7 +16,7 @@ const Houtes = () => { /* função anonima passada para a variavel Houtes */
                 </Route>
 
             </Switch>
-        
+
         </BrowserRouter>
     );
 }

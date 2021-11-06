@@ -1,11 +1,12 @@
+/* codigo abaixo se refere ai tipo de fonte retirada do google fonts */
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400;500;700&display=swap');
 :root {
-    --color-primary: #FF8400;
+    --color-primary: #FF8400; /* variavel que define cor */
 }
 
 html, body {
-    height: 100%;
-    font-family: "Ubuntu", sans-serif;
+    height: 100%; /* altura */
+    font-family: "Ubuntu", sans-serif; /* esta é a fonte a ser usada "ubuntu" se não achar ela aplica a sans-serif*/
 }
 
 #root {
